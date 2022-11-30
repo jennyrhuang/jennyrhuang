@@ -1,6 +1,6 @@
 ### Hey EveryBody 👋
 <strong>
-<img src="boy.png" width="350px" height="300px" align="right" alt="boy-pc">
+<img src="https://media.giphy.com/media/xUPGcrf5Ibrmgp0ZmE/giphy.gif" width="250px" height="150px" align="right" alt="boy-pc">
 
 
 
@@ -25,6 +25,6 @@
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/jenniferrueihuang711335212/" alt="Linkedin">
-  <img height="30" width="40" src="linkedin.png"/></a>
+  <img height="30" width="30" src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png"/></a>
 </p>  
 </strong>
