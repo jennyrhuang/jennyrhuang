@@ -21,7 +21,7 @@
 </div>  <br>
 
 <p align="left">
-  💌 Did you like what you saw? contact us below:⤵️
+  💌 Did you like what you saw? contact me below:⤵️
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/jenniferrueihuang711335212/" alt="Linkedin">
